@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#keyboards {
+    background-image: url('../img/keyboards/keyboards.png');
+    background-size: cover;
+    background-position: center;
+}
+
+#keycaps {
+    background-image: url('../img/keycaps/keycaps.png');
+    background-size: cover;
+    background-position: center;
+}
+
+#switches {
+    background-image: url('../img/switches/switches.png');
+    background-size: cover;
+    background-position: center;
+}
+
+#accessories {
+    background-image: url('../img/accessories/accessories.png');
+    background-size: cover;
+    background-position: center;
+}
